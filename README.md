@@ -1,11 +1,5 @@
 # Ultim8eBlogger
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/ingress-it-solutions/ultim8e-blogger.svg?style=flat-square)](https://packagist.org/packages/ingress-it-solutions/ultim8e-blogger)
-
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-
-<!-- [![Supported PHP-versions](https://img.shields.io/packagist/php-v/ingress-it-solutions/ultim8e-blogger?style=flat-square)](https://packagist.org/packages/ingress-it-solutions/ultim8e-blogger)-->
-
 Plug-and-play flat file markdown blog tool for your Laravel-project. Create an article or blog-section on your site without the hassle of setting up tables, models or your own flat file-system.
 
 Built upon [spatie/sheets](https://github.com/spatie/sheets) to handle the markdown-files and YAML-front matter parsing.
